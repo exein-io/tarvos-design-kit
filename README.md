@@ -5,7 +5,7 @@ The Tarvos Design Kit is a collection of components and styles for rapid design 
 The name of the tarvos design system comes from: Tarvos /ˈtɑːrvɒs/, or Saturn XXI, is a prograde irregular satellite of Saturn. It was discovered by John J. Kavelaars et al. on September 23, 2000, and given the temporary designation S/2000 S 4. The name, given in August 2003, is after Tarvos, a deity depicted as a bull god carrying three cranes alongside its back from Gaulish mythology. 
 
 ## Live View
-Before cloning this repository, you can see Tarvos at [this link](https://xd.adobe.com/view/b73aa0db-b8d0-4a5f-8433-a4941f004bc6-e269/).
+Before cloning this repository, you can see Tarvos at [this link](https://xd.adobe.com/view/b4c4f512-ca10-4ddc-8c90-3b49745b2d9f-e197/).
 
 ## Document Structure
 Tarvos document has several artboards as follows:
