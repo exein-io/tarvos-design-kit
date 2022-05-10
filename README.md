@@ -1,8 +1,8 @@
 # Tarvos Design Kit by Exein 
 
-![](res/Tarvos.jpg)
-
 The Tarvos Design Kit is a collection of components and styles for rapid design and prototyping of the Exein products.
+
+![](res/Tarvos.jpg)
 
 The name of the tarvos design system comes from: Tarvos /ˈtɑːrvɒs/, or Saturn XXI, is a prograde irregular satellite of Saturn. It was discovered by John J. Kavelaars et al. on September 23, 2000, and given the temporary designation S/2000 S 4. The name, given in August 2003, is after Tarvos, a deity depicted as a bull god carrying three cranes alongside its back from Gaulish mythology. 
 
