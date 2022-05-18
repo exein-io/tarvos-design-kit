@@ -4,10 +4,13 @@
 
 The Tarvos Design Kit is a collection of components and styles for rapid design and prototyping of the Exein products.
 
+![](res/Tarvos.jpg)
+
 The name of the tarvos design system comes from: Tarvos /ˈtɑːrvɒs/, or Saturn XXI, is a prograde irregular satellite of Saturn. It was discovered by John J. Kavelaars et al. on September 23, 2000, and given the temporary designation S/2000 S 4. The name, given in August 2003, is after Tarvos, a deity depicted as a bull god carrying three cranes alongside its back from Gaulish mythology. 
 
 ## Live View
-Before cloning this repository, you can see Tarvos at [this link](https://xd.adobe.com/view/b4c4f512-ca10-4ddc-8c90-3b49745b2d9f-e197/).
+Before cloning this repository, you can see Tarvos Design Kit at [this link](https://xd.adobe.com/view/b4c4f512-ca10-4ddc-8c90-3b49745b2d9f-e197/). <br />
+Before cloning this repository, you can see Tarvos Icons at [this link](https://xd.adobe.com/view/3952cd82-b3c7-4f3a-9736-b841ed42f8f2-6c01/?fullscreen).
 
 ## Document Structure
 Tarvos document has several artboards as follows:
@@ -17,6 +20,8 @@ Tarvos document has several artboards as follows:
 - **UI Patterns Components**: A collection of assets that correspond to the Tarvos Design
 - **Website UI Patterns Components**: A collection of assets that 
 correspond to the Tarvos Design for Website: Desktop/Mobile use.
+
+Tarvos Icons Set include a list of our Icons divided by major categories.
 
 ## Usage
 ### XD Document Component
@@ -32,9 +37,9 @@ Select a component once it’s been placed on the canvas to create your UX UI pr
 As a designer, we always craft and maintain the quality of the work. We provide a major set of breakpoints for you to start with. We should always consider and care how your design works across screen sizes. Ignoring one of the artboards will lead to poor user experiences. We also provide additional Breakpoints for conveying content/layout adjustments. 
 
 ### Getting Started 
-To get started with your design, copy and paste the artboards to the right into your new document. To view layout go to “View → Show Layout Grid” and the units at “View → Show Square Grid”.
+To get started with your design on Adobe XD, copy and paste the artboards to the right into your new document. To view layout go to “View → Show Layout Grid” and the units at “View → Show Square Grid”.
 
-### Major Breakpoints 
+### Grid Major Breakpoints 
 
 **Small**
 
@@ -118,3 +123,92 @@ Margin: 76px
 - Secondary Block Particles
 - Main Website Header
 - Form Section
+
+## Tarvos v1.0.0 Icons Set 
+- Home
+- Search
+- Zoom in
+- Soon out
+- Info
+- Close full screen
+- Add
+- Duplicate
+- To button
+- To top
+- Chevron left
+- Chevron right
+- Arrow left
+- Arrow right
+- Confirm
+- Wi-fi
+- Exit
+- Export
+- Upload
+- Download
+- Embed
+- Notifice
+- Notice off
+- Label off
+- Swap wert
+- Warning
+- Label
+- Close
+- Clipboard
+- Calendar
+- Task
+- General
+- Filter
+- Page
+- Note
+- Feed
+- Add card
+- Payment
+- Cart
+- Add account
+- Audio on
+- Audio off
+- Audio down
+- Microphone off
+- Microphone on
+- Refleash
+- Repeat
+- Replay
+- Paly
+- Stop
+- Launch application
+- Full creen
+- Label
+- Full screen exit
+- Log in
+- Lock
+- Unlock
+- Setting account
+- Smart home
+- Laptop
+- Tv
+- Tablet
+- Keyboard
+- Server
+- Webcam
+- Smart watch
+- Router
+- Phone
+- Trending
+- Tab left
+- Phone close
+- Mouse
+- Balance
+- Smart tv
+- Photo
+- Video security
+- Microwave
+- Group
+- Smart speaker
+- Hierarchy
+- Arcigne
+- Print
+- Autor
+- eBpf
+- Ai
+- Task
+- Log out
