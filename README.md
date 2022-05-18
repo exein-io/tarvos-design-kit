@@ -1,6 +1,5 @@
 # Tarvos Design Kit by Exein 
 
-![](res/Tarvos.jpg)
 
 The Tarvos Design Kit is a collection of components and styles for rapid design and prototyping of the Exein products.
 
